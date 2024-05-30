@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 Tecnologias
+## 🚀 Tecnologiass
 <div style="display: flex; align-items: center; text-decoration: none;">
   <img src="https://img.shields.io/badge/Python-7f1d1d?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-000?style=for-the-badge&logo=django&logoColor=white"/>
